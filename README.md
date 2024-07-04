@@ -11,6 +11,36 @@ Sourceduty doesn't work directly in filmmaking but it can create innovative conc
 
 3. As the camera rises there is a **transition from the full-screen and wide angle aspect ratio to a letter-boxed aspect ratio.**
 
-***
+#
+### Related Links
 
+[Movie Product](https://github.com/sourceduty/Movie_Product)
+<br>
+[Set Stage Design](https://github.com/sourceduty/Set_Stage_Design)
+<br>
+[Tube Director](https://chat.openai.com/g/g-epAQ2XbfM-tube-director)
+<br>
+[Video Image](https://chat.openai.com/g/g-LNtncGSSz-video-image)
+<br>
+[Famous](https://chat.openai.com/g/g-O9LfTkCN7-famous)
+<br>
+[Digital Stars](https://chat.openai.com/g/g-dRyZ53slj-digital-stars)
+<br>
+[Event Model Simulator](https://chat.openai.com/g/g-Zr15o3jSa-event-model-simulator)
+<br>
+[Wedding Design](https://chatgpt.com/g/g-fXhJAisdE-wedding-design)
+<br>
+[Music Mixology](https://chat.openai.com/g/g-Dx8EfEK8O-music-mixology)
+<br>
+[Compare Videos](https://github.com/sourceduty/Compare_Videos)
+<br>
+[Video Insider](https://chatgpt.com/g/g-ZBiedT6Sq-video-insider)
+<br>
+[Airborne Car Deployment](https://github.com/sourceduty/Airborne_Car_Deployment)
+<br>
+[Skydive Dirt Biking](https://github.com/sourceduty/Skydive_Dirt_Biking)
+<br>
+[Movie Developer](https://chatgpt.com/g/g-GKuoUegIF-movie-developer)
+
+***
 🛈 This is free and open-source; anyone can redistribute it and/or modify it.

@@ -1,4 +1,4 @@
-![Camera](https://github.com/user-attachments/assets/e81cd36e-1679-46c4-b9d2-cef01d570030)
+![Angles](https://github.com/user-attachments/assets/680b665a-b57d-4505-ad3f-3260e08f79d9)
 
 > Camera techniques.
 

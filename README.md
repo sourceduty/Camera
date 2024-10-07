@@ -1,9 +1,16 @@
-![Phone Camera](https://github.com/sourceduty/Movies/assets/123030236/cfa22fdf-5279-4ac7-ab98-fb4becaa50ce)
+![Camera](https://github.com/user-attachments/assets/e81cd36e-1679-46c4-b9d2-cef01d570030)
+
+> Camera techniques.
+
+#
 
 Sourceduty doesn't work directly in filmmaking but it can create innovative concept ideas for movies. These ideas offer a foundation that filmmakers and storytellers can develop and bring to life on screen. Alex Aldridge likes to imagine and design these initial concepts as a source of inspiration for those in the film industry looking to tell new and engaging stories.
 
 #
 ### Opening Scene Concept ~ Aspect Ratio Transition
+
+![Phone Camera](https://github.com/sourceduty/Movies/assets/123030236/cfa22fdf-5279-4ac7-ab98-fb4becaa50ce)
+
 
 1. The scene starts with a low angle neorealistic close-up following everyday people walking on a city sidewalk. The inital camera is full-screen and wide angle. 
 

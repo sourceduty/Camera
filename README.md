@@ -19,6 +19,10 @@ Sourceduty doesn't work directly in filmmaking but it can create innovative conc
 3. As the camera rises there is a **transition from the full-screen and wide angle aspect ratio to a letter-boxed aspect ratio.**
 
 #
+
+![Product Table](https://github.com/user-attachments/assets/f62750c6-ee2c-4f17-bd0b-8451ad3a75cb)
+
+#
 ### Related Links
 
 [Movie Product](https://github.com/sourceduty/Movie_Product)

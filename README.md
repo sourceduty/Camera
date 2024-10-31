@@ -1,4 +1,5 @@
 ![Angles](https://github.com/user-attachments/assets/680b665a-b57d-4505-ad3f-3260e08f79d9)
+![Lights](https://github.com/user-attachments/assets/77c9af2d-c233-4542-91e3-4f2a39867fed)
 
 > Camera techniques.
 
